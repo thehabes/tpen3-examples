@@ -1,6 +1,6 @@
 {
    "@context":"http://iiif.io/api/presentation/3/context.json",
-   "id":"https://static.t-pen.org/transcription-project/examples-out/manifest.json",
+   "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/manifest.json",
    "type":"Manifest",
    "label":{
       "en":[
@@ -9,7 +9,7 @@
    },
    "items":[
       {
-         "id":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json",
+         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json",
          "type":"Canvas",
          "label":{
             "en":[
@@ -20,11 +20,11 @@
          "height":7230,
          "items":[
             {
-               "id":"https://static.t-pen.org/transcription-project/fixtures-in/contentPage.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/contentPage.json",
                "type":"AnnotationPage",
                "items":[
                   {
-                     "id":"https://static.t-pen.org/transcription-project/fixtures-in/content.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/content.json",
                      "type":"Annotation",
                      "motivation":"painting",
                      "body":{
@@ -41,14 +41,14 @@
                         "width":5428,
                         "height":7230
                      },
-                     "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json"
                   }
                ]
             }
          ],
          "annotations":[
             {
-               "id":"https://static.t-pen.org/transcription-project/examples-out/page-1.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/page-1.json",
                "type":"AnnotationPage",
                "label":{
                   "en":[
@@ -57,7 +57,7 @@
                },
                "items":[
                   {
-                     "id":"https://static.t-pen.org/transcription-project/examples-out/line-1.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/line-1.json",
                      "type":"Annotation",
                      "motivation":"tagging",
                      "body":{
@@ -66,10 +66,10 @@
                         "format":"text/plain",
                         "language":"de"
                      },
-                     "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1620,2170,290"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1620,2170,290"
                   },
                   {
-                     "id":"https://static.t-pen.org/transcription-project/examples-out/line-2.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/line-2.json",
                      "type":"Annotation",
                      "motivation":"tagging",
                      "body":{
@@ -78,15 +78,15 @@
                         "format":"text/plain",
                         "language":"de"
                      },
-                     "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1910,2170,345"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1910,2170,345"
                   }
                ],
-               "partOf":"https://static.t-pen.org/transcription-project/examples-out/transcription-layer.json",
+               "partOf":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/transcription-layer.json",
                "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38",
-               "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json"
+               "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json"
             },
             {
-               "id":"https://static.t-pen.org/transcription-project/examples-out/page-3.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/page-3.json",
                "type":"AnnotationPage",
                "label":{
                   "en":[
@@ -95,7 +95,7 @@
                },
                "items":[
                   {
-                     "id":"https://static.t-pen.org/transcription-project/examples-out/line-5.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/line-5.json",
                      "type":"Annotation",
                      "motivation":"tagging",
                      "body":{
@@ -104,10 +104,10 @@
                         "format":"text/plain",
                         "language":"en"
                      },
-                     "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1620,2170,290"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1620,2170,290"
                   },
                   {
-                     "id":"https://static.t-pen.org/transcription-project/examples-out/line-6.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/line-6.json",
                      "type":"Annotation",
                      "motivation":"tagging",
                      "body":{
@@ -116,17 +116,17 @@
                         "format":"text/plain",
                         "language":"en"
                      },
-                     "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1910,2170,345"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1910,2170,345"
                   }
                ],
-               "partOf":"https://static.t-pen.org/transcription-project/examples-out/translation-layer.json",
+               "partOf":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/translation-layer.json",
                "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38",
-               "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json"
+               "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json"
             }
          ]
       },
       {
-         "id":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json",
+         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json",
          "type":"Canvas",
          "label":{
             "en":[
@@ -137,11 +137,11 @@
          "height":7230,
          "items":[
             {
-               "id":"https://static.t-pen.org/transcription-project/fixtures-in/contentPage-2.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/contentPage-2.json",
                "type":"AnnotationPage",
                "items":[
                   {
-                     "id":"https://static.t-pen.org/transcription-project/fixtures-in/content-2.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/content-2.json",
                      "type":"Annotation",
                      "motivation":"painting",
                      "body":{
@@ -158,14 +158,14 @@
                         "width":5428,
                         "height":7230
                      },
-                     "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json"
                   }
                ]
             }
          ],
          "annotations":[
             {
-               "id":"https://static.t-pen.org/transcription-project/examples-out/page-2.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/page-2.json",
                "type":"AnnotationPage",
                "label":{
                   "en":[
@@ -174,7 +174,7 @@
                },
                "items":[
                   {
-                     "id":"https://static.t-pen.org/transcription-project/examples-out/line-3.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/line-3.json",
                      "type":"Annotation",
                      "motivation":"tagging",
                      "body":{
@@ -183,10 +183,10 @@
                         "format":"text/plain",
                         "language":"de"
                      },
-                     "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1630,2450,280"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1630,2450,280"
                   },
                   {
-                     "id":"https://static.t-pen.org/transcription-project/examples-out/line-4.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/line-4.json",
                      "type":"Annotation",
                      "motivation":"tagging",
                      "body":{
@@ -195,15 +195,15 @@
                         "format":"text/plain",
                         "language":"de"
                      },
-                     "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1910,2450,340"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1910,2450,340"
                   }
                ],
-               "partOf":"https://static.t-pen.org/transcription-project/examples-out/transcription-layer.json",
+               "partOf":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/transcription-layer.json",
                "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38",
-               "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json"
+               "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json"
             },
             {
-               "id":"https://static.t-pen.org/transcription-project/examples-out/page-4.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/page-4.json",
                "type":"AnnotationPage",
                "label":{
                   "en":[
@@ -212,7 +212,7 @@
                },
                "items":[
                   {
-                     "id":"https://static.t-pen.org/transcription-project/examples-out/line-7.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/line-7.json",
                      "type":"Annotation",
                      "motivation":"tagging",
                      "body":{
@@ -221,10 +221,10 @@
                         "format":"text/plain",
                         "language":"en"
                      },
-                     "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1630,2450,280"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1630,2450,280"
                   },
                   {
-                     "id":"https://static.t-pen.org/transcription-project/examples-out/line-8.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/line-8.json",
                      "type":"Annotation",
                      "motivation":"tagging",
                      "body":{
@@ -233,12 +233,12 @@
                         "format":"text/plain",
                         "language":"en"
                      },
-                     "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1910,2450,340"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1910,2450,340"
                   }
                ],
-               "partOf":"https://static.t-pen.org/transcription-project/examples-out/translation-layer.json",
+               "partOf":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/translation-layer.json",
                "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38",
-               "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json"
+               "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json"
             }
          ]
       }

@@ -1,6 +1,6 @@
 {
    "@context":"http://iiif.io/api/presentation/3/context.json",
-   "id":"https://static.t-pen.org/simple-project/examples-out/manifest.json",
+   "id":"https://tpen-project-examples.habesoftware.app/simple-project/examples-out/manifest.json",
    "type":"Manifest",
    "label":{
       "en":[
@@ -49,7 +49,7 @@
          "annotations":[
             {
                "@context":"http://www.w3.org/ns/anno.jsonld",
-               "id":"https://static.t-pen.org/simple-project/fixtures-in/page.json",
+               "id":"https://tpen-project-examples.habesoftware.app/simple-project/fixtures-in/page.json",
                "type":"AnnotationPage",
                "label":{
                   "none":[
@@ -58,7 +58,7 @@
                },
                "items":[
                   {
-                     "id":"https://static.t-pen.org/simple-project/line.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/simple-project/line.json",
                      "type":"Annotation",
                      "motivation":"tagging",
                      "body":{

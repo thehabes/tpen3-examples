@@ -9,7 +9,7 @@ This directory contains the following project and transcription artifacts
 - 4 W3C Annotation Pages (TPEN3 Pages).  2 pages of transcribed text, 2 pages of translated text. (inbound and outbound)
 - 8 W3C Annotations (TPEN3 Lines).  Two lines per page. (inbound and outbound)
 
-This project is an example of a TPEN Transcription project.  It has multiple Layers, Pages, and Lines one must render and navigate through.  You can load the [manifest.json](https://static.t-pen.org/transcription-project/manifest.json) link in your preferred IIIF viewer.
+This project is an example of a TPEN Transcription project.  It has multiple Layers, Pages, and Lines one must render and navigate through.  You can load the [manifest.json](https://tpen-project-examples.habesoftware.app/transcription-project/manifest.json) link in your preferred IIIF viewer.
 
-The Manifest, Canvases, Annotation Collections, Annotation Pages, and Annotations are included as discrete objects and are individually resolvable.  In some cases objects are referenced as opposed to embedded.  Ex. https://static.t-pen.org/transcription-project/transcription-layer.json.  It is assumed that the Annotations sent in are processed and preserved so they can be presented on the way out.
+The Manifest, Canvases, Annotation Collections, Annotation Pages, and Annotations are included as discrete objects and are individually resolvable.  In some cases objects are referenced as opposed to embedded.  Ex. https://tpen-project-examples.habesoftware.app/transcription-project/transcription-layer.json.  It is assumed that the Annotations sent in are processed and preserved so they can be presented on the way out.
   

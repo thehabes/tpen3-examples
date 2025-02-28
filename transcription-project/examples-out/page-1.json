@@ -1,6 +1,6 @@
 {
    "@context":"http://www.w3.org/ns/anno.jsonld",
-   "id":"https://static.t-pen.org/transcription-project/examples-out/page-1.json",
+   "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/page-1.json",
    "type":"AnnotationPage",
    "label":{
       "en":[
@@ -9,7 +9,7 @@
    },
    "items":[
       {
-         "id":"https://static.t-pen.org/transcription-project/examples-out/line-1.json",
+         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/line-1.json",
          "type":"Annotation",
          "motivation":"tagging",
          "body":{
@@ -18,10 +18,10 @@
             "format":"text/plain",
             "language":"de"
          },
-         "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1620,2170,290"
+         "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1620,2170,290"
       },
       {
-         "id":"https://static.t-pen.org/transcription-project/examples-out/line-2.json",
+         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/line-2.json",
          "type":"Annotation",
          "motivation":"tagging",
          "body":{
@@ -30,10 +30,10 @@
             "format":"text/plain",
             "language":"de"
          },
-         "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1910,2170,345"
+         "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json#xywh=1550,1910,2170,345"
       }
    ],
-   "partOf":"https://static.t-pen.org/transcription-project/examples-out/transcription-layer.json",
+   "partOf":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/transcription-layer.json",
    "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38",
-   "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-1.json"
+   "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json"
 }

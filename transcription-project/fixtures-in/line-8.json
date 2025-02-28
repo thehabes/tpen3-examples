@@ -1,6 +1,6 @@
 {
    "@context":"http://www.w3.org/ns/anno.jsonld",
-   "id":"https://static.t-pen.org/transcription-project/fixtures-in/line-8.json",
+   "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/line-8.json",
    "type":"Annotation",
    "motivation":"tagging",
    "body":{
@@ -9,5 +9,5 @@
       "format":"text/plain",
       "language":"en"
    },
-   "target":"https://static.t-pen.org/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1910,2450,340"
+   "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1910,2450,340"
 }

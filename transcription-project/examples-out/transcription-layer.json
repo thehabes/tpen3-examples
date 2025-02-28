@@ -1,6 +1,6 @@
 {
    "@context":"http://www.w3.org/ns/anno.jsonld",
-   "id":"https://static.t-pen.org/transcription-project/examples-out/layer-1.json",
+   "id":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/layer-1.json",
    "type":"AnnotationCollection",
    "label":{
       "en":[
@@ -8,7 +8,7 @@
       ]
    },
    "total":2,
-   "first":"https://static.t-pen.org/transcription-project/examples-out/page-1.json",
-   "last":"https://static.t-pen.org/transcription-project/examples-out/page-2.json",
+   "first":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/page-1.json",
+   "last":"https://tpen-project-examples.habesoftware.app/transcription-project/examples-out/page-2.json",
    "creator":"https://store.rerum.io/v1/id/661d43bc490d045b8ba04d38"
 }

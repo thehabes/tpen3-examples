@@ -5,11 +5,11 @@
       
    ],
    "layers":[
-      "https://static.t-pen.org/simple-project/examples-out/layer.json"
+      "https://tpen-project-examples.habesoftware.app/simple-project/examples-out/layer.json"
    ],
    "group":"66fd7d0f3d5367e49b2d7bb5",
    "creator":"661d43bc490d045b8ba04d38",
-   "manifest":"https://static.t-pen.org/simple-project/fixtures-in/manifest.json",
+   "manifest":"https://tpen-project-examples.habesoftware.app/simple-project/fixtures-in/manifest.json",
    "license":"CC-BY",
    "tools":[
       

@@ -1,6 +1,6 @@
 {
    "@context":"http://iiif.io/api/presentation/3/context.json",
-   "id":"https://static.t-pen.org/simple-project/fixtures-in/manifest.json",
+   "id":"https://tpen-project-examples.habesoftware.app/simple-project/fixtures-in/manifest.json",
    "type":"Manifest",
    "label":{
       "en":[
@@ -48,7 +48,7 @@
          ],
          "annotations":[
             {
-               "id": "https://static.t-pen.org/simple-project/fixtures-in/page.json",
+               "id": "https://tpen-project-examples.habesoftware.app/simple-project/fixtures-in/page.json",
                "type": "AnnotationPage"
             }
          ]
