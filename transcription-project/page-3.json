@@ -1,0 +1,38 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-3.json",
+   "type":"AnnotationPage",
+   "label":{
+      "en":[
+         "Page 1 Lines Translated"
+      ]
+   },
+   "items":[
+      {
+         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-5.json",
+         "type":"Annotation",
+         "motivation":"tagging",
+         "body":{
+            "type":"TextualBody",
+            "value":"Holy Ceremonies *and",
+            "format":"text/plain",
+            "language":"en"
+         },
+         "target":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json#xywh=1550,1620,2170,290"
+      },
+      {
+         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-6.json",
+         "type":"Annotation",
+         "motivation":"tagging",
+         "body":{
+            "type":"TextualBody",
+            "value":"Church Customs *of",
+            "format":"text/plain",
+            "language":"en"
+         },
+         "target":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json#xywh=1550,1910,2170,345"
+      }
+   ],
+   "creator":"thehabes@habesoftware.rocks",
+   "target":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json"
+}

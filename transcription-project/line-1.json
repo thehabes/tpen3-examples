@@ -1,6 +1,6 @@
 {
    "@context":"http://www.w3.org/ns/anno.jsonld",
-   "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/line-3.json",
+   "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-1.json",
    "type":"Annotation",
    "motivation":"tagging",
    "body":{
@@ -9,5 +9,6 @@
       "format":"text/plain",
       "language":"de"
    },
-   "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json#xywh=1300,1630,2450,280"
+   "target":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json#xywh=1550,1620,2170,290"
 }
+      

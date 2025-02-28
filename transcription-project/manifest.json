@@ -1,6 +1,6 @@
 {
    "@context":"http://iiif.io/api/presentation/3/context.json",
-   "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/manifest.json",
+   "id":"https://tpen-project-examples.habesoftware.app/transcription-project/manifest.json",
    "type":"Manifest",
    "label":{
       "en":[
@@ -9,7 +9,7 @@
    },
    "items":[
       {
-         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json",
+         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json",
          "type":"Canvas",
          "label":{
             "en":[
@@ -20,11 +20,11 @@
          "height":7230,
          "items":[
             {
-               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/contentPage.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/contentPage.json",
                "type":"AnnotationPage",
                "items":[
                   {
-                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/content.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/content.json",
                      "type":"Annotation",
                      "motivation":"painting",
                      "body":{
@@ -41,24 +41,24 @@
                         "width":5428,
                         "height":7230
                      },
-                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-1.json"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json"
                   }
                ]
             }
          ],
          "annotations":[
             {
-               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/page-1.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-1.json",
                "type":"AnnotationPage"
             },
             {
-               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/page-3.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-3.json",
                "type":"AnnotationPage"
             }
          ]
       },
       {
-         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json",
+         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-2.json",
          "type":"Canvas",
          "label":{
             "en":[
@@ -69,11 +69,11 @@
          "height":7230,
          "items":[
             {
-               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/contentPage-2.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/contentPage-2.json",
                "type":"AnnotationPage",
                "items":[
                   {
-                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/content-2.json",
+                     "id":"https://tpen-project-examples.habesoftware.app/transcription-project/content-2.json",
                      "type":"Annotation",
                      "motivation":"painting",
                      "body":{
@@ -90,7 +90,7 @@
                         "width":5428,
                         "height":7230
                      },
-                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/canvas-2.json"
+                     "target":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-2.json"
                   }
                ]
             }
@@ -98,11 +98,11 @@
          "annotations":[
          {
 
-               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/page-2.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-2.json",
                "type":"AnnotationPage"
             },
             {
-               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/fixtures-in/page-4.json",
+               "id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-4.json",
                "type":"AnnotationPage"
             }
          ]

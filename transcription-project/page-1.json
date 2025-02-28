@@ -1,0 +1,38 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-1.json",
+   "type":"AnnotationPage",
+   "label":{
+      "en":[
+         "Page 1 Lines Transcribed"
+      ]
+   },
+   "items":[
+      {
+         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-1.json",
+         "type":"Annotation",
+         "motivation":"tagging",
+         "body":{
+            "type":"TextualBody",
+            "value":"Heilige Ceremonien *und",
+            "format":"text/plain",
+            "language":"de"
+         },
+         "target":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json#xywh=1550,1620,2170,290"
+      },
+      {
+         "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-2.json",
+         "type":"Annotation",
+         "motivation":"tagging",
+         "body":{
+            "type":"TextualBody",
+            "value":"Kirchen-Gebräuche *der",
+            "format":"text/plain",
+            "language":"de"
+         },
+         "target":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json#xywh=1550,1910,2170,345"
+      }
+   ],
+   "creator":"thehabes@habesoftware.rocks",
+   "target":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json"
+}
