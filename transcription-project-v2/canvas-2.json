@@ -7,6 +7,7 @@
    "height":7230,
    "images":[
       {
+         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/content-2.json",
          "@type":"oa:Annotation",
          "motivation":"sc:painting",
          "resource":{
