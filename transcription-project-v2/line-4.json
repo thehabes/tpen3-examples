@@ -1,0 +1,13 @@
+{
+   "@context":"https://www.w3.org/ns/oa.jsonld",
+   "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-4.json",
+   "@type":"oa:Annotation",
+   "motivation":"oad:translating",
+   "body":{
+      "@type":"cnt:ContentAsText",
+      "cnt:chars":"Kirchen-Gebräuche *der",
+      "format":"text/plain",
+      "language":"de"
+   },
+   "on":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-2.json#xywh=1300,1910,2450,340"
+}

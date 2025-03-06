@@ -1,0 +1,37 @@
+{
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json",
+   "@type":"sc:Canvas",
+   "label":"Gottesdienstliche Ceremonien Title Page 1",
+   "width":5428,
+   "height":7230,
+   "images":[
+      {
+         "@type":"oa:Annotation",
+         "motivation":"sc:painting",
+         "resource":{
+            "@id":"https://iiif.io/api/image/3.0/example/reference/15f769d62ca9a3a2deca390efed75d73-3_titlepage1/full/max/0/default.jpg",
+            "@type":"dctypes:Image",
+            "format":"image/jpeg",
+            "service":{
+               "@context":"http://iiif.io/api/image/2/context.json",
+               "@id":"https://iiif.io/api/image/3.0/example/reference/15f769d62ca9a3a2deca390efed75d73-3_titlepage1",
+               "profile":"http://iiif.io/api/image/2/level1.json"
+            },
+            "width":5428,
+            "height":7230
+         },
+         "on":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json"
+      }
+   ],
+   "otherContent":[
+      {
+         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-1.json",
+         "@type":"AnnotationList"
+      },
+      {
+         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-3.json",
+         "@type":"AnnotationList"
+      }
+   ]
+}

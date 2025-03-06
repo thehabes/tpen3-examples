@@ -1,0 +1,13 @@
+{
+   "@context":"https://www.w3.org/ns/oa.jsonld",
+   "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-5.json",
+   "@type":"oa:Annotation",
+   "motivation":"oad:transcribing",
+   "body":{
+      "@type":"cnt:ContentAsText",
+      "cnt:chars":"Holy Ceremonies *and",
+      "format":"text/plain",
+      "language":"en"
+   },
+   "on":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json#xywh=1550,1620,2170,290"
+}
