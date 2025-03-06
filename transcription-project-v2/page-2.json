@@ -1,5 +1,5 @@
 {
-   "@context":"http://iiif.io/api/presentation/2",
+   "@context":"http://iiif.io/api/presentation/2/context.json",
    "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-2.json",
    "@type":"sc:AnnotationList",
    "label":"Page 2 Lines Transcribed",

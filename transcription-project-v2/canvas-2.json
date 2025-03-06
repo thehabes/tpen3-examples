@@ -27,11 +27,11 @@
    "otherContent":[
       {
          "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-2.json",
-         "@type":"AnnotationList"
+         "@type":"sc:AnnotationList"
       },
       {
          "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-4.json",
-         "@type":"AnnotationList"
+         "@type":"sc:AnnotationList"
       }
    ]
 }
