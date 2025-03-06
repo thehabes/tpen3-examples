@@ -1,0 +1,34 @@
+{
+   "@context":"http://iiif.io/api/presentation/2/context.json",
+   "@id":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/page-4.json",
+   "@type":"sc:AnnotationList",
+   "label":"Page 2 Lines Translated",
+   "resources":[
+      {
+         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/line-7.json",
+         "@type":"oa:Annotation",
+         "motivation":"oad:translating",
+         "body":{
+            "@type":"cnt:ContentAsText",
+            "cnt:chars":"Holy Ceremonies *and",
+            "format":"text/plain",
+            "language":"en"
+         },
+         "on":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/canvas-2.json#xywh=1300,1630,2450,280"
+      },
+      {
+         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/line-8.json",
+         "@type":"oa:Annotation",
+         "motivation":"oad:translating",
+         "body":{
+            "@type":"cnt:ContentAsText",
+            "cnt:chars":"Church Customs *of",
+            "format":"text/plain",
+            "language":"en"
+         },
+         "on":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/canvas-2.json#xywh=1300,1910,2450,340"
+      }
+   ],
+   "creator":"thehabes@habesoftware.rocks",
+   "on":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/canvas-2.json"
+}

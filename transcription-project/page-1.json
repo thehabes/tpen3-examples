@@ -11,7 +11,7 @@
       {
          "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-1.json",
          "type":"Annotation",
-         "motivation":"tagging",
+         "motivation":"transcribing",
          "body":{
             "type":"TextualBody",
             "value":"Heilige Ceremonien *und",
@@ -22,7 +22,7 @@
       },
       {
          "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-2.json",
-         "type":"Annotation",
+         "type":"transcribing",
          "motivation":"tagging",
          "body":{
             "type":"TextualBody",

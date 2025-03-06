@@ -11,7 +11,7 @@
       {
          "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-7.json",
          "type":"Annotation",
-         "motivation":"tagging",
+         "motivation":"translating",
          "body":{
             "type":"TextualBody",
             "value":"Holy Ceremonies *and",
@@ -23,7 +23,7 @@
       {
          "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-8.json",
          "type":"Annotation",
-         "motivation":"tagging",
+         "motivation":"translating",
          "body":{
             "type":"TextualBody",
             "value":"Church Customs *of",
