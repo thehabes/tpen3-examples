@@ -1,11 +1,11 @@
 {
    "@context":"http://iiif.io/api/presentation/2/context.json",
-   "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-1.json",
+   "@id":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/page-1.json",
    "@type":"sc:AnnotationList",
    "label":"Page 1 Lines Transcribed",
    "resources":[
       {
-         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-1.json",
+         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/line-1.json",
          "@type":"oa:Annotation",
          "motivation":"oad:transcribing",
          "body":{
@@ -14,10 +14,10 @@
             "format":"text/plain",
             "language":"de"
          },
-         "on":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json#xywh=1550,1620,2170,290"
+         "on":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/canvas-1.json#xywh=1550,1620,2170,290"
       },
       {
-         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-2.json",
+         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/line-2.json",
          "@type":"oa:Annotation",
          "motivation":"oad:transcribing",
          "body":{
@@ -26,9 +26,9 @@
             "format":"text/plain",
             "language":"de"
          },
-         "on":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json#xywh=1550,1910,2170,345"
+         "on":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/canvas-1.json#xywh=1550,1910,2170,345"
       }
    ],
    "creator":"thehabes@habesoftware.rocks",
-   "on":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json"
+   "on":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/canvas-1.json"
 }

@@ -1,13 +1,13 @@
 {
    "@context":"http://iiif.io/api/presentation/2/context.json",
-   "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-2.json",
+   "@id":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/canvas-2.json",
    "@type":"sc:Canvas",
    "label":"Gottesdienstliche Ceremonien Title Page 2",
    "width":5428,
    "height":7230,
    "images":[
       {
-         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/content-2.json",
+         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/content-2.json",
          "@type":"oa:Annotation",
          "motivation":"sc:painting",
          "resource":{
@@ -22,16 +22,16 @@
             "width":5428,
             "height":7230
          },
-         "on":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-2.json"
+         "on":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/canvas-2.json"
       }
    ],
    "otherContent":[
       {
-         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-2.json",
+         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/page-2.json",
          "@type":"sc:AnnotationList"
       },
       {
-         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/page-4.json",
+         "@id":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/page-4.json",
          "@type":"sc:AnnotationList"
       }
    ]
