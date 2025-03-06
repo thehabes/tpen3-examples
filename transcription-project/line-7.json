@@ -2,7 +2,7 @@
   "@context":"http://www.w3.org/ns/anno.jsonld",
    "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-7.json",
    "type":"Annotation",
-   "motivation":"tagging",
+   "motivation":"translating",
    "body":{
       "type":"TextualBody",
       "value":"Holy Ceremonies *and",

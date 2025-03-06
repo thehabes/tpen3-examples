@@ -2,7 +2,7 @@
    "@context":"https://www.w3.org/ns/oa.jsonld",
    "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-6.json",
    "@type":"oa:Annotation",
-   "motivation":"oad:transcribing",
+   "motivation":"oad:translating",
    "body":{
       "@type":"cnt:ContentAsText",
       "cnt:chars":"Church Customs *of",

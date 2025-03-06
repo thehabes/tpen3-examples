@@ -11,7 +11,7 @@
       {
          "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-3.json",
          "type":"Annotation",
-         "motivation":"tagging",
+         "motivation":"transcribing",
          "body":{
             "type":"TextualBody",
             "value":"Heilige Ceremonien *und",
@@ -23,7 +23,7 @@
       {
          "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-4.json",
          "type":"Annotation",
-         "motivation":"tagging",
+         "motivation":"transcribing",
          "body":{
             "type":"TextualBody",
             "value":"Kirchen-Gebräuche *der",

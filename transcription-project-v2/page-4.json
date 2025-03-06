@@ -5,7 +5,6 @@
    "label":"Page 2 Lines Translated",
    "resources":[
       {
-         "@context":"https://www.w3.org/ns/oa.jsonld",
          "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-7.json",
          "@type":"oa:Annotation",
          "motivation":"oad:translating",
@@ -18,7 +17,6 @@
          "on":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-2.json#xywh=1300,1630,2450,280"
       },
       {
-         "@context":"http://www.w3.org/ns/anno.jsonld",
          "@id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-8.json",
          "@type":"oa:Annotation",
          "motivation":"oad:translating",
