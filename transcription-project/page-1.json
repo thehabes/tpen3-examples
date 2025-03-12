@@ -22,8 +22,8 @@
       },
       {
          "id":"https://tpen-project-examples.habesoftware.app/transcription-project/line-2.json",
-         "type":"transcribing",
-         "motivation":"tagging",
+         "type":"Annotation",
+         "motivation":"transcribing",
          "body":{
             "type":"TextualBody",
             "value":"Kirchen-Gebräuche *der",
