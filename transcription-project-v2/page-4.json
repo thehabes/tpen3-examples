@@ -30,5 +30,6 @@
       }
    ],
    "creator":"thehabes@habesoftware.rocks",
-   "on":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/canvas-2.json"
+   "on":"https://tpen-project-examples.habesoftware.app/transcription-project-v2/canvas-2.json",
+   "prev": "https://tpen-project-examples.habesoftware.app/transcription-project-v2/page-3.json"
 }
