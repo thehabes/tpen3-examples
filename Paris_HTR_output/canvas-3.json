@@ -47,7 +47,7 @@
                "motivation":"transcribing",
                "body":{
                   "id":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/BnF-191_btv1b100886937_063_1L.txt",
-                  "type":"TextualBody",
+                  "type":"Text",
                   "format":"text/plain",
                   "language":"none"
                },
