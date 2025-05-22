@@ -1,0 +1,13 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/text-3.json",
+   "type":"Annotation",
+   "motivation":"transcribing",
+   "body":{
+      "id":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/BnF-191_btv1b100886937_063_1L.txt",
+      "type":"TextualBody",
+      "format":"text/plain",
+      "language":"none"
+   },
+   "target":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/canvas-3.json"
+}

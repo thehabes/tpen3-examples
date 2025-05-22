@@ -1,4 +1,5 @@
 {
+   "@context":"http://iiif.io/api/presentation/3/context.json",
    "id":"https://tpen-project-examples.habesoftware.app/Oxford_messy_marginalia/canvas-1.json",
    "type":"Canvas",
    "label":{

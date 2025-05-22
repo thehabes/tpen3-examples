@@ -1,0 +1,25 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/page-4.json",
+   "type":"AnnotationPage",
+   "label":{
+      "en":[
+         "Page 63 2R Transcribed Text"
+      ]
+   },
+   "items":[
+      {
+         "id":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/text-4.json",
+         "type":"Annotation",
+         "motivation":"transcribing",
+         "body":{
+            "id":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/BnF-191_btv1b100886937_063_2R.txt",
+            "type":"TextualBody",
+            "format":"text/plain",
+            "language":"none"
+         },
+         "target":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/canvas-4.json"
+      }
+   ],
+   "target":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/canvas-4.json"
+}
