@@ -1,6 +1,6 @@
 {
    "@context":"http://iiif.io/api/presentation/3/context.json",
-   "id":"https://tpen-project-examples.habesoftware.app/Oxford_messy_marginalia/canvas-2.json",
+   "id":"https://tpen-project-examples.habesoftware.app/Oxford_messy_marginalia/canvas-HAHA.json",
    "type":"Canvas",
    "label":{
       "en":[
@@ -25,7 +25,7 @@
                   "width":4000,
                   "height":3000
                },
-               "target":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-2.json"
+               "target":"https://tpen-project-examples.habesoftware.app/transcription-project/canvas-HAHA.json"
             }
          ]
       }
