@@ -300,7 +300,7 @@
          ]
       },
       {
-         "id":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/canvas-5.json",
+         "id":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/canvas-6.json",
          "type":"Canvas",
          "label":{
             "en":[
@@ -325,7 +325,7 @@
                         "width":2404,
                         "height":3478
                      },
-                     "target":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/canvas-5.json"
+                     "target":"https://tpen-project-examples.habesoftware.app/Paris_HTR_output/canvas-6.json"
                   }
                ]
             }
