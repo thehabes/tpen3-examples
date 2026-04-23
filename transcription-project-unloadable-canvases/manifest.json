@@ -1,0 +1,13 @@
+{
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://tpen-project-examples.habesoftware.app/transcription-project-unloadable-canvases/manifest.json",
+   "type":"Manifest",
+   "label":{
+      "en":[
+         "TPEN3 Transcription/Translation Example"
+      ]
+   },
+   "items":[
+
+   ]
+}

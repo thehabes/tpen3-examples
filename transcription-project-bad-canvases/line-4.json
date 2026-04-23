@@ -1,0 +1,13 @@
+{
+   "@context":"http://www.w3.org/ns/anno.jsonld",
+   "id":"https://tpen-project-examples.habesoftware.app/transcription-project-bad-canvases/line-4.json",
+   "type":"Annotation",
+   "motivation":"transcribing",
+   "body":{
+      "type":"TextualBody",
+      "value":"Kirchen-Gebräuche *der",
+      "format":"text/plain",
+      "language":"de"
+   },
+   "target":"https://tpen-project-examples.habesoftware.app/transcription-project-bad-canvases/canvas-2.json#xywh=1300,1910,2450,340"
+}
